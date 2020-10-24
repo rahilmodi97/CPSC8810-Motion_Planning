@@ -1,5 +1,5 @@
 # CPSC8810-Motion_Planning
-This repository contains all the projects done throughout the course by me(Rahil Modi) and my partner Huzefa Shabbir Hussain Kagalwala. 
+This repository contains all the projects done throughout the course.
 
 Project-1 : Sampling-based Multi-Agent Navigation 
 
